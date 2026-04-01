@@ -9,9 +9,9 @@
 
 | STT | Họ và Tên       | Mã Sinh Viên | Vai trò / Nhiệm vụ                         | Link GitHub Cá Nhân  |
 |-----|-----------------|--------------|--------------------------------------------|----------------------|
-| 1   | Trương Văn Học  | 3120225058   |Code Controller, Database, GUI Main, Tích hợp toàn bộ hệ thống     | [GitHub](https://github.com/username)  |
-| 2   | Phạm Minh Quảng | 3120225126   | Code Model, Tetromino Logic, HighScore Manager, Xử lý game logic  | [GitHub](https://github.com/username)  |
-| 3   | Ngô Phi Trường   | 3120225168  | Vẽ GamePanel, Xử lý File I/O, Báo cáo, Thiết kế giao diện         | [GitHub](https://github.com/username) |
+| 1   | Trương Văn Học  | 3120225058   |Code Controller, Database, GUI Main, Tích hợp toàn bộ hệ thống     | [GitHub](https://github.com/Vhoc2703)  |
+| 2   | Phạm Minh Quảng | 3120225126   | Code Model, Tetromino Logic, HighScore Manager, Xử lý game logic  | [GitHub](https://github.com/quang11245)  |
+| 3   | Ngô Phi Trường   | 3120225168  | Vẽ GamePanel, Xử lý File I/O, Báo cáo, Thiết kế giao diện         |  [GitHub](https://github.com/truonga7k61thptlethuy-gif) |
 
 ---
 
